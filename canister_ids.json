@@ -1,0 +1,11 @@
+{
+  "icpcode_backend": {
+    "local": "br5f7-7uaaa-aaaaa-qaaca-cai"
+  },
+  "qrcode_backend": {
+    "local": "bw4dl-smaaa-aaaaa-qaacq-cai"
+  },
+  "qrcode_frontend": {
+    "local": "b77ix-eeaaa-aaaaa-qaada-cai"
+  }
+}
